@@ -14,7 +14,6 @@ Token Overview
 Scarcity: Mini XRP has a total token supply of 1 million, ensuring ultra-scarcity compared to the XRP network.
 
 Initial DEX Offering (IDO): MXRP will be launched through an Initial DEX Offering (IDO), allowing early supporters and investors to acquire tokens directly on decentralized exchanges. 
-
 The IDO will release 20% of all tokens into the decentralized exchanges.
 
 Founder Allocation: 20% of the total token supply is allocated to the founders of Mini XRP to support project development and ongoing initiatives. The founder allocation is distributed among three founders as follows:
@@ -71,16 +70,27 @@ IDO Fund Allocation
 Total Funding Goal: 500,000 USDC
   
   DEX Development (Primary Interface): 80,000 USDC
+  
   Seamless Swapping: Users can easily swap MXRP tokens between Solana and XRPL with a simple swipe of a button.
+  
   Token Locking Mechanism: When tokens are transferred from one network to another, an equivalent number of tokens are locked on the source network to maintain the total supply.
+ 
   Swapping Functionality:
+  
   MXRP to Solana: Swap MXRP tokens for Solana tokens (SOL).
+  
   MXRP to XRP: Swap MXRP tokens for XRP.
+  
   MXRP to Solana Tokens: Swap MXRP tokens for other tokens on the Solana network.
+  
   MXRP to XRPL Tokens: Swap MXRP tokens for other tokens on the XRPL network.
+  
   User-Friendly Interface: Intuitive design to provide a smooth user experience for token swapping.
+  
   Cross-Chain Bridge: Utilizes or integrates a secure and efficient cross-chain bridge to facilitate the transfer of tokens between the two networks.
+  
   Real-Time Updates: The interface will show real-time balances and locked token statuses to ensure transparency.
+  
   Liquidity Provider Incentives: Liquidity providers will receive 60% of all transaction fees, incentivizing them to supply liquidity and support the DEX ecosystem. The 15% will be allocated toward liquidity incentives for MXRP. 10% will be allocated to the MXRP Development Reserve. 5% will be 
   allocated toward the Lead Founder of MXRP (Owner of DEX).
 
